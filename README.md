@@ -7,3 +7,4 @@ fileverse (idea is new)
 low cap gem:
 $OBI
 $IMGNAI
+next > shell
