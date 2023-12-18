@@ -7,4 +7,8 @@ fileverse (idea is new)
 low cap gem:
 $OBI
 $IMGNAI
-next > shell
+Akash $AKT (Major crypto projects that Grayscale Research considers related to the AI theme include):
+Akash
+Render (GPU sharing), 
+Worldcoin (identity), 
+Bittensor (open-architecture AI development).
