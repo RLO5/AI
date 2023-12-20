@@ -11,4 +11,4 @@ Akash $AKT (Major crypto projects that Grayscale Research considers related to t
 Akash
 Render (GPU sharing), 
 Worldcoin (identity), 
-Bittensor (open-architecture AI development).
+Bittensor (open-architecture AI development)
