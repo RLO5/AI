@@ -3,6 +3,7 @@ AI Projects
 here i will gather AI based web3 projects
 myshell (use openai api)
 sleeplessai
+web3go
 fileverse (idea is new)
 
 low cap gem:
