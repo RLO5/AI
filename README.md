@@ -14,4 +14,4 @@ Akash
 Render (GPU sharing), 
 Worldcoin (identity), 
 Bittensor (open-architecture AI development)
-io
+ionet
