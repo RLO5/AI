@@ -15,3 +15,4 @@ Render (GPU sharing),
 Worldcoin (identity), 
 Bittensor (open-architecture AI development)
 ionet
+tulos
