@@ -16,3 +16,5 @@ Worldcoin (identity),
 Bittensor (open-architecture AI development)
 ionet
 tulos
+Succinct
+SentientAGI
